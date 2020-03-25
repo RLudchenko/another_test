@@ -9,4 +9,8 @@ public class App {
     public static String GetSurname() {
         return "Ludchenko";
     }
+
+    public static int GetAge() {
+        return 24;
+    }
 }
