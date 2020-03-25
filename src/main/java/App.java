@@ -6,4 +6,7 @@ public class App {
     public static String GetName() {
         return "Ross";
     }
+    public static String GetSurname() {
+        return "Ludchenko";
+    }
 }
